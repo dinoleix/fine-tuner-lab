@@ -1,0 +1,12 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "fine-tuner-lab",
+      "runtimeExecutable": "/usr/local/bin/npm",
+      "runtimeArgs": ["run", "dev", "--", "--port", "5174"],
+      "cwd": "/Users/alexisleishangthem/Downloads/Organized/Code & Web/webdeveloper/fine-tuner-lab/frontend",
+      "port": 5174
+    }
+  ]
+}
